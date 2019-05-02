@@ -1,0 +1,16 @@
+D:\SAVIS_internship\StudentManager\StudentManager\bin\Debug\netcoreapp2.2\StudentManager.deps.json
+D:\SAVIS_internship\StudentManager\StudentManager\bin\Debug\netcoreapp2.2\StudentManager.runtimeconfig.json
+D:\SAVIS_internship\StudentManager\StudentManager\bin\Debug\netcoreapp2.2\StudentManager.runtimeconfig.dev.json
+D:\SAVIS_internship\StudentManager\StudentManager\bin\Debug\netcoreapp2.2\StudentManager.dll
+D:\SAVIS_internship\StudentManager\StudentManager\bin\Debug\netcoreapp2.2\StudentManager.pdb
+D:\SAVIS_internship\StudentManager\StudentManager\bin\Debug\netcoreapp2.2\StudentManager.Views.dll
+D:\SAVIS_internship\StudentManager\StudentManager\obj\Debug\netcoreapp2.2\StudentManager.csproj.CoreCompileInputs.cache
+D:\SAVIS_internship\StudentManager\StudentManager\obj\Debug\netcoreapp2.2\StudentManager.RazorAssemblyInfo.cache
+D:\SAVIS_internship\StudentManager\StudentManager\obj\Debug\netcoreapp2.2\StudentManager.RazorAssemblyInfo.cs
+D:\SAVIS_internship\StudentManager\StudentManager\obj\Debug\netcoreapp2.2\StudentManager.AssemblyInfoInputs.cache
+D:\SAVIS_internship\StudentManager\StudentManager\obj\Debug\netcoreapp2.2\StudentManager.AssemblyInfo.cs
+D:\SAVIS_internship\StudentManager\StudentManager\obj\Debug\netcoreapp2.2\StudentManager.RazorTargetAssemblyInfo.cache
+D:\SAVIS_internship\StudentManager\StudentManager\obj\Debug\netcoreapp2.2\StudentManager.dll
+D:\SAVIS_internship\StudentManager\StudentManager\obj\Debug\netcoreapp2.2\StudentManager.pdb
+D:\SAVIS_internship\StudentManager\StudentManager\obj\Debug\netcoreapp2.2\StudentManager.csproj.CopyComplete
+D:\SAVIS_internship\StudentManager\StudentManager\obj\Debug\netcoreapp2.2\StudentManager.csprojAssemblyReference.cache
